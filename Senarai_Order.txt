@@ -78,4 +78,4 @@ Masukkan order korang dalam bentuk CSV (Comma Separated Value)... hahaha...
 70, breakprimetime, 1, L 1
 71, Maksuee, 1, L 1, (Bayar melalui En. Haris)
 72, Mr. Fab, 1, XL 1
-
+73, Yusdirman, 2, XXL 1, S 1
